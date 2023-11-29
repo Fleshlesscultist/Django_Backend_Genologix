@@ -1,0 +1,6 @@
+/djangoback
+.DS_Store
+.AppleDouble
+.LSOverride
+/logreg_model
+/back/poumon.h5
